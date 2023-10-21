@@ -85,16 +85,10 @@ button {
 .top-btn:focus {
   background-color:  #404BBF;
 }
-.team{
-  background-color: #F4F4FD;
-}
-.team-list{
-  background-color: #F4F4FD;
-}
 .section-title {
   font-weight: 700;
   font-size: 36px;
-  line-height: 1.11;
+  line-height: 1.2;
   letter-spacing: 0.72px;
   text-transform: capitalize;
   text-align: center;
