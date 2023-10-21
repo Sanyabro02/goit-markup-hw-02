@@ -29,7 +29,7 @@ button {
   text-transform: uppercase;
 }
 .header-logo-black {
-  color: #2E2F42;
+  color: #2e2f42;
 }
 .info-list {
   font-weight: 500;
@@ -112,7 +112,7 @@ button {
   line-height: 1.5;
   letter-spacing: 0.02em;
 }
-.team-list{
+.team-list .item{
   background-color: #FFFFFF;
 }
 .team-list .title{
