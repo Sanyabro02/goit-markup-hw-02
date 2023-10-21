@@ -48,6 +48,7 @@ button {
 }
 .social-list .link {
   letter-spacing: 0.32px;
+  font-style: normal;
   color: #434455;
 }
 .social-list .link:hover {
