@@ -3,6 +3,7 @@ body {
   font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
+  letter-spacing: 0.02em;
   color: #434455;
   background-color: #fff;
 }
@@ -77,17 +78,25 @@ button {
 .top-btn:hover {
   background-color: #404bbf;
 }
+.top-btn:focus {
+  background-color: #404bbf;
+}
+.team{
+  background-color: #F4F4FD;
+}
+.team-list{
+  background-color: #F4F4FD;
+}
 .section-title {
   font-weight: 700;
   font-size: 36px;
-  line-height: 1.1;
+  line-height: 1.11;
   letter-spacing: 0.72px;
   text-transform: capitalize;
   text-align: center;
   color: #2e2f42;
 }
 .about-list .title,
-.team-list .title,
 .portfolio-list .title{
   font-weight: 500;
   font-size: 20px;
@@ -105,8 +114,9 @@ button {
 }
 .footer{
   background-color: #2e2f42;
-  color: #fff;
+  color: #F4F4FD;
+  letter-spacing: 0.02em;
 }
 .header-logo-white{
-  color: #fff;
+  color: #F4F4FD;
 }
