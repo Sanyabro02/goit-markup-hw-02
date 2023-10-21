@@ -18,7 +18,7 @@ a {
 button {
   cursor: pointer;
 }
-
+/* header */
 .header-logo {
   font-family: 'Raleway', sans-serif;
   font-weight: 700;
@@ -79,6 +79,7 @@ button {
   background-color: #4d5ae5;
   cursor: pointer;
 }
+/* top */
 .top-btn:hover {
   background-color: #404bbf;
 }
@@ -94,6 +95,7 @@ button {
   text-align: center;
   color: #2e2f42;
 }
+/* team */
 .about-list .title{
   font-weight: 500;
   font-size: 20px;
@@ -106,7 +108,7 @@ button {
   line-height: 1.5;
   letter-spacing: 0.02em;
 }
-.team-list .item{
+.team-list .list-item{
   background-color: #FFFFFF;
 }
 .team-list .title{
@@ -122,6 +124,7 @@ button {
   line-height: 1.5;
   letter-spacing: 0.02em;
 }
+/* portfolio */
 .portfolio-list .title{
   font-weight: 500;
   font-size: 20px;
@@ -136,6 +139,7 @@ button {
   line-height: 1.5;
   letter-spacing: 0.02em;
 }
+/* footer */
 .footer{
   background-color: #2e2f42;
 }
@@ -148,7 +152,7 @@ button {
   color: #4d5ae5;
 }
 .header-logo-white{
-  color: #f4f4fd ;
+  color: #f4f4fd;
 }
 .footer-text{
   line-height: 1.5;
