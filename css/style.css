@@ -95,7 +95,7 @@ button {
   text-align: center;
   color: #2e2f42;
 }
-/* team */
+/* about */
 .about-list .title{
   font-weight: 500;
   font-size: 20px;
@@ -108,13 +108,17 @@ button {
   line-height: 1.5;
   letter-spacing: 0.02em;
 }
+/* team */
+.team{
+  background-color: #F4F4FD;
+}
 .team-list .list-item{
   background-color: #FFFFFF;
 }
 .team-list .title{
   font-weight: 500;
   font-size: 20px;
-  line-height: 1.2; 
+  line-height: 1.11; 
   letter-spacing: 0.4px;
   text-align: center;
   color: #2e2f42;
@@ -128,7 +132,7 @@ button {
 .portfolio-list .title{
   font-weight: 500;
   font-size: 20px;
-  line-height: 1.2; 
+  line-height: 1.11; 
   letter-spacing: 0.02em;
   text-align: center;
   text-transform: capitalize;
